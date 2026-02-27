@@ -38,6 +38,14 @@
       {
         "path": "Notes_Programs/UNIT-1/Bias_Variance_Trade-off.pdf",
         "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/EvaluationMetrics.pdf",
+        "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/ConfusionMatrix.ipynb",
+        "hidden": false
       }
     ],
     "UNIT-2": [],
