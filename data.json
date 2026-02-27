@@ -46,6 +46,14 @@
       {
         "path": "Notes_Programs/UNIT-1/ConfusionMatrix.ipynb",
         "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/ConfusionMatrixNumpy.ipynb",
+        "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/ConfusionMatrixSklearn.ipynb",
+        "hidden": false
       }
     ],
     "UNIT-2": [],
