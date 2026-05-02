@@ -66,7 +66,12 @@
         "hidden": false
       }
     ],
-    "UNIT-3": [],
+    "UNIT-3": [
+      {
+        "path": "Notes_Programs/UNIT-3/ML-Unit3-EnsembleLearning.pdf",
+        "hidden": false
+      }
+    ],
     "UNIT-4": [
       {
         "path": "Notes_Programs/UNIT-4/ML_Unit4.pdf",
