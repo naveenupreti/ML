@@ -124,5 +124,30 @@
       "hidden": false
     }
   ],
-  "exampapers": []
+  "exampapers": [
+    {
+      "path": "ExamPapers/BCS055-MACHINE-LEARNING-TECHNIQUES-2024-25.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/KCS055-MACHINE-LEARNING-TECHNIQUES-2023-24.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/MACHINE-LEARNING-TECHNIQUES-KCS-055-1_2021-22.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/MACHINE-LEARNING-TECHNIQUES-KCS-055-2020-21.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/BCS055-MACHINE-LEARNING-TECHNIQUES-2025-26.pdf.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/MACHINE-LEARNING-TECHNIQUES-KCS-055-1-2021-22.pdf",
+      "hidden": false
+    }
+  ]
 }
