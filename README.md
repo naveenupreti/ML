@@ -5,7 +5,7 @@ Welcome!
 This repository contains **syllabus, lecture notes, example programs, and assignments** for BCA students.  
 All resources are also available online via the following **GitHub site Page**  
 
-**https://naveenupreti.github.io/ML-Notes/**
+**https://naveenupreti.github.io/ML/**
 
 
 
