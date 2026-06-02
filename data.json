@@ -93,7 +93,12 @@
       }
     ]
   },
-  "assignments": [],
+  "assignments": [
+    {
+      "path": "Assignments/NBCA605PracticalsList.pdf",
+      "hidden": false
+    }
+  ],
   "ebooks": [
     {
       "path": "ebooks/Ethem Alpaydin-Introduction to Machine Learning-The MIT Press (2014)_compressed.pdf",
